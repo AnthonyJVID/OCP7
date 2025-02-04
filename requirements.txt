@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pydantic
+tensorflow
+numpy
+pickle
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp
